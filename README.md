@@ -1,6 +1,6 @@
 # 🌿 PlantPal — Smart Plant Care App
 
-PlantPal es una web app / PWA diseñada para ayudar a las personas a cuidar sus plantas sin olvidar riegos, luz ni mantenimiento.
+PlantPal es una sitio web y (proximamente) PWA, diseñada para ayudar a las personas a cuidar sus plantas sin olvidar riegos, luz ni mantenimiento.
 
 El objetivo es transformar el cuidado de plantas en una experiencia simple, inteligente y organizada.
 
