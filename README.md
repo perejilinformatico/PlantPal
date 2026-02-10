@@ -42,17 +42,15 @@ Este proyecto fue construido como una aplicación real, enfocada en:
 ### Frontend
 - React / Next.js  
 - Tailwind CSS  
-- TypeScript (opcional)
+- TypeScript 
 
 ### Backend
+Lo proximo del proyecto
 - Flask  
 - PostgreSQL / SQLite  
 
 ### Otros
+otros mas a futuro
 - REST API  
 - Autenticación  
 - PWA support  
-
----
-
-## 📂 Estructura del proyecto
