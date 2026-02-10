@@ -1,0 +1,29 @@
+@media (min-height: 900px) {
+    #div__noPrincipal {
+        height: 500px;
+    }
+}
+@media (min-height: 844px) {
+    #div__noPrincipal {
+        height: 500px;
+    }
+}  
+@media (min-height: 667px) {
+    #div__noPrincipal {
+        height: 500px;
+    }   
+}
+@media (max-height: 1000px) {
+    #div__noPrincipal {
+        height: 500px;
+    } 
+}
+@media (min-width: 768px) {
+    #div__noPrincipal {
+        height: 500px;
+        width: 500px;;
+    } 
+    input {
+        width: 200px;
+    }
+}
